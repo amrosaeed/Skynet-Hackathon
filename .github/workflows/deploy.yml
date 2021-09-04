@@ -15,3 +15,8 @@ jobs:
 
       - run: npm install
       - run: npm run build
+      - name: "Deploy to Skynet"
+        uses: skynetlabs/deploy-to-skynet-action@v2
+        with:
+          upload-dir: build
+          github-token: ${{ secrets.GITHUB_TOKEN }}
