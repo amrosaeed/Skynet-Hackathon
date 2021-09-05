@@ -9,7 +9,9 @@
     }
   ],
   "start_url": ".",
+  
   "display": "fullscreen",
   "theme_color": "#1c1c1c",
-  "background_color": "#1c1c1c"
+  "background_color": "#1c1c1c",
+  "description" : "Swap or provide liquidity on the Uniswap Protocol"
 }
