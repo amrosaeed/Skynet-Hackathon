@@ -69,6 +69,7 @@ Hint: Gatsby & full React Router support coming soon
 ```
 You'll want to add the following code in your project's Readme, replacing [skylink]with your resolver skylink (excluding sia://).
 
+source: https://docs.siasky.net/developer-guides/deploy-github-actions
 ### Using handshake domain
 
 1. [x] open an account on namebase using my referral link https://www.namebase.io/register/kyohwp
