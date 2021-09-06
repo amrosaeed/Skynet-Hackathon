@@ -9,7 +9,10 @@
     }
   ],
   "start_url": ".",
+  
   "display": "fullscreen",
   "theme_color": "#1c1c1c",
-  "background_color": "#1c1c1c"
+  "background_color": "#1c1c1c",
+  "description" : "Assets Reflected on the Blockchain",
+  "skylink" : "AQC2TDP2zSLBzMXFWg2FYYpXfUizHrIzg0S4pn6l-2TLfg"
 }
