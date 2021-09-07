@@ -55,7 +55,7 @@ Please create a file in your code source “.github/workflows/deploy.yml” with
 
 source: https://docs.siasky.net/developer-guides/deploy-github-actions
 
-### Changes to index.tsx (import HashRouter insted of ReactRouter)
+### Changes to index.tsx (import HashRouter insted of BrowserRouter)
 
 ```
 import { HashRouter as Router } from "react-router-dom"
