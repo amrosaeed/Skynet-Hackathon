@@ -102,7 +102,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```sh
 npm install
-npm run start
+npm run build
 ```
 
 ## License
